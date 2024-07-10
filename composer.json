@@ -1,0 +1,19 @@
+{
+  "name": "kimraejin/jins-plugin",
+  "description": "A template for plugin",
+  "type": "project",
+  "license": "GPLv2 or later",
+  "authors": [
+    {
+      "name": "Kim Rae Jin",
+      "email": "phantrunghieu1291@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "inc\\": "inc/"
+    }
+  }
+}

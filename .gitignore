@@ -1,4 +1,1 @@
-.vscode
-node_modules
-composer.lock
-pnpm-lock.yaml
+/vendor/
