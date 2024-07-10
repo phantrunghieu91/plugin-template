@@ -1,0 +1,1 @@
+This folder (`/src/scss/export/`) is used to store SCSS files that are used in the project. These SCSS files will be compiled into CSS.
