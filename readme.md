@@ -13,14 +13,7 @@ To use this plugin template, follow these steps:
 
 ## Usage
 
-To use the plugin, include the following code in your project:
-
-```javascript
-import Plugin from './plugin-template';
-
-const plugin = new Plugin();
-plugin.init();
-```
+To use the plugin, copy the folder to wp-content/plugins then active the plugin in plugins manager.
 
 ## Contributing
 
