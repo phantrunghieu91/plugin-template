@@ -19,6 +19,7 @@
     "@babel/preset-env": "^7.24.7",
     "babel-core": "^6.26.3",
     "babelify": "^10.0.0",
+    "browser-sync": "^3.0.2",
     "browserify": "^17.0.0",
     "fancy-log": "^2.0.0",
     "gulp": "^5.0.0",
