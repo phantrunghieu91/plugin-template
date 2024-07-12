@@ -2,9 +2,9 @@
 /**
  * @package JinsPlugin
  */
-namespace inc\base;
+namespace jinsPlugin\inc\base;
 
-use Inc\Base\BaseController;
+use jinsPlugin\inc\base\BaseController;
 
 class SettingsLinks extends BaseController {
   public function register(){

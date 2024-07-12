@@ -2,7 +2,7 @@
 /**
  * @package JinsPlugin
  */
-namespace inc\base;
+namespace jinsPlugin\inc\base;
 /**
  * Represents the base controller for the plugin.
  *

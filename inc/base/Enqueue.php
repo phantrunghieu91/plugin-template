@@ -3,9 +3,9 @@
  * @package JinsPlugin
  * Enqueue Scripts and Styles
  */
-namespace inc\base;
+namespace jinsPlugin\inc\base;
 
-use Inc\Base\BaseController;
+use jinsPlugin\inc\base\BaseController;
 
 class Enqueue extends BaseController
 {

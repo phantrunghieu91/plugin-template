@@ -19,16 +19,16 @@ if (file_exists(dirname(__FILE__) . '/vendor/autoload.php')) {
 
 // Activate and Deactivate the plugin
 function activate_plugin(){
-  inc\base\Activate::activate();
+  jinsPlugin\inc\base\Activate::activate();
 }
 register_activation_hook( __FILE__, 'activate_plugin' );
 
 function deactivate_plugin(){
-  inc\base\Deactivate::deactivate();
+  jinsPlugin\inc\base\Deactivate::deactivate();
 }
 register_deactivation_hook( __FILE__, 'deactivate_plugin' );
 
 // Initialize all the core classes of the plugin
-if (class_exists('inc\Init')) {
-  inc\Init::register_services();
+if (class_exists('jinsPlugin\inc\Init')) {
+  jinsPlugin\inc\Init::register_services();
 }

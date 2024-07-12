@@ -2,7 +2,7 @@
 /**
  * @package JinsPlugin
  */
-namespace inc;
+namespace jinsPlugin\inc;
 
 /**
  * Class Init

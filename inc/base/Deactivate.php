@@ -2,7 +2,7 @@
 /**
  * @package JinsPlugin
  */
-namespace inc\base;
+namespace jinsPlugin\inc\base;
 
 class Deactivate
 {

@@ -2,7 +2,7 @@
 /**
  * @package JinsPlugin
  */
-namespace inc\api;
+namespace jinsPlugin\inc\api;
 class SettingsApi {
   public $admin_pages = array();
   public $admin_subpages = array();
